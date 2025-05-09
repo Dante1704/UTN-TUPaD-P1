@@ -4,7 +4,7 @@
 
 ## ✨ Estudiante  
 - **Nombre:** Kaddarian Dante Nicolas  
-- **Comisión:** M2025-3  
+- **Comisión:** M2025-1  
 
 ## 📂 Descripción del Repositorio  
 Este repositorio almacena todas los trabajos prácticos realizados durante la cursada de **Programación 1**.  
