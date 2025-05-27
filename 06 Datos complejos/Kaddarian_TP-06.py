@@ -100,3 +100,70 @@
 # lista_anidada[2].append(30.6)
 # lista_anidada.append(False)
 # print(lista_anidada)
+
+
+# for t in range(1,3):
+#     for n in range(1,4):
+#         print(t*n, end="")
+
+
+
+
+# lista = [1,1,1,2,1,0,0,0,0,0,0,0,0,0,0,0]
+
+# n = 5
+
+# r = 0
+
+# if n == 0 :
+#     r = 0
+# else: 
+#     r= lista[n-1]
+#     for i in range(n-1,0,-1) :
+#         r+= lista[i-1]
+# print(r)
+
+# f="HolaMundoCruel"
+# r=f
+# I=len(f)
+
+# for i in range(0, I + 1, 5) :
+#     r = f[i:I]
+
+# print(r)
+
+
+# for n in range(1, 11):
+#     bandera = False
+#     d = 0
+
+#     for c in range(1, n + 1):
+#         if n % c == 0:
+#             d += 1
+#             if d <= 2:
+#                 bandera = True
+#             else: 
+#                 bandera = False
+#     if bandera: 
+#         print(n, end=" ")
+
+
+# contador = 1
+# suma = 0
+# bandera = True
+
+# num1 = int(input("Ingrese un valor N°1: "))
+
+# while bandera: 
+#     num2 = int(input("Ingrese un valor N°2: "))
+#     suma = suma + num2
+#     contador = contador + 1
+
+#     while contador <= num1:
+#         print(suma, end=",")
+#         bandera = False
+
+#         if contador == num1:
+#             bandera = True
+#         break
+
