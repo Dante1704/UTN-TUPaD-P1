@@ -12,4 +12,4 @@ def fibonacci(pos:int):
     else:
         return fibonacci(pos - 2) + fibonacci(pos - 1)     
 
-print(fibonacci(8))
+print(fibonacci(4))
